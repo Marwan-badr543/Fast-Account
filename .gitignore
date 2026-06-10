@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.env
+*.exe
+myInvoice.pdf
+table_states.json
+Fast Account_2.exe

@@ -1,0 +1,39 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>icons/casher.png</file>
+    <file>icons/manageEmployee.png</file>
+    <file>icons/menu.png</file>
+    <file>icons/revenue.png</file>
+    <file>icons/record.png</file>
+    <file>icons/show.png</file>
+    <file>icons/statement.png</file>
+    <file>icons/total.png</file>
+    <file>icons/reset.png</file>
+    <file>icons/bill.png</file>
+    <file>icons/delivery.png</file>
+    <file>icons/back.png</file>
+    <file>icons/next.png</file>
+    <file>icons/setting.png</file>
+    <file>icons/search.png</file>
+    <file>icons/add.png</file>
+    <file>icons/update.png</file>
+    <file>icons/layoff.png</file>
+    <file>icons/clear.png</file>
+    <file>icons/save.png</file>
+    <file>icons/showSalary.png</file>
+    <file>icons/print.png</file>
+    <file>icons/database.png</file>
+    <file>icons/plus.png</file>
+    <file>icons/price.png</file>
+    <file>icons/delete.png</file>
+    <file>icons/takeaway.png</file>
+    <file>icons/tables.png</file>
+    <file>icons/visa.png</file>
+    <file>icons/returned.png</file>
+    <file>icons/shift.png</file>
+    <file>icons/backto.png</file>
+    <file>icons/upArrow.png</file>
+    <file>icons/downArrow.png</file>
+    <file>icons/about.png</file>
+</qresource>
+</RCC>
